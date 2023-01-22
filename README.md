@@ -6,7 +6,7 @@
 
 # Haii 😛
 
-Founder, Developer & owner @ <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">cloudhostsolutions</a>, and <a href="https://apolloservices.xyz">Apolloservices</a>
+Founder, Developer & owner @ <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a href="https://apolloservices.xyz">Apolloservices</a>
 
 
 # 🐸 Languages I Use
