@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/1066513793854750862/1066860872959524925/image3.png" width="180"/>
-  ## SCIENCE! 
+  <div align="center"
+    SCIENCE!
+  </div>
 </div>
 
 
