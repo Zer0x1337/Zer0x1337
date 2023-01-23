@@ -12,11 +12,11 @@
 </div>
 
 
-# Haii 😛
+# Haiii 😛
 
 Founder, Developer & owner @ <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a href="https://apolloservices.xyz">Apolloservices</a>
 
-## 🐸 Languages I Use
+## 🐸 My Favorite Languages
 - C
 - C#
 - C++
