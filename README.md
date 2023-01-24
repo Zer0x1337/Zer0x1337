@@ -15,7 +15,7 @@
 <div align="center">
    <font size="20"
    My Favorite Languages
-   <font
+   </font>
 - C
 - C#
 - C++
