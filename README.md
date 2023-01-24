@@ -13,9 +13,6 @@
  Founder, Developer & Owner @ <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a          href="https://apolloservices.xyz">Apolloservices</a>
 </div>
 <div align="center">
-   <font size="+2">
-   My Favorite Languages
-   </font>
 - C
 - C#
 - C++
