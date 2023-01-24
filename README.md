@@ -9,11 +9,13 @@
  SCIENCE! 👨🏼‍💻
 </div>
 
-<div align="center">
+<div align="center" >
  Founder, Developer & Owner @ <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a          href="https://apolloservices.xyz">Apolloservices</a>
 </div>
-
-## My Favorite Languages
+<div align="center">
+   <font size="20"
+   My Favorite Languages
+   <font
 - C
 - C#
 - C++
@@ -21,4 +23,4 @@
 - Python
 - HTML 
 - PHP
-
+</div>
