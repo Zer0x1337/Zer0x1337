@@ -5,7 +5,9 @@
  Wake up, Coffee, Science, Sleep, Repeat.
 </div>
 <br>
+
 [![ZER0x1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zer0x1337)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <div align="center" >
  Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a          href="https://apolloservices.xyz">Apolloservices</a>
