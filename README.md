@@ -7,7 +7,7 @@
 <br>
 <br>
 
-__ About me: __
+**About me:**
 
 <br>
 <div >
