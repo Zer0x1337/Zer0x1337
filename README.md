@@ -10,14 +10,15 @@
 
 <div align="center">
 Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a   href="https://apolloservices.xyz">Apolloservices</a>
- <div align="center"></div>
-  - C
-  - C#
-  - C++
-  - Golang
-  - Python
-  - HTML
-  - PHP
+  <div align="center">
+   - C
+   - C#
+   - C++
+   - Golang
+   - Python
+   - HTML
+   - PHP
+  </div>
  </div>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZER0x1337&show_icons=true&theme=onedark" align="center" /></div>
