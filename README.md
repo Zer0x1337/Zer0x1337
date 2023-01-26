@@ -27,5 +27,5 @@ Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a hr
 </div>  
 <br>
 !-->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZER0x1337&show_icons=true&theme=synthwave" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZER0x1337&show_icons=true&theme=tokyonight" align="center" /></div>
 <br>
