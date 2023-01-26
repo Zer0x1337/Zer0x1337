@@ -5,7 +5,7 @@
  Wake up, Coffee, Science, Sleep, Repeat.
 </div>
 <br>
-**About me:**
+**About me**
 <br>
 <br>
 <div >
