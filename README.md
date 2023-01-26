@@ -8,13 +8,12 @@
 
 ### **About me:**
 **Founder, Developer & Owner of** <a href="https://authcord.xyz">**Authcord**</a>, <a href="https://cloudhostsolutions.co">**CloudHostSolutions**</a>, and <a   href="https://apolloservices.xyz">**Apolloservices**</a>
-> - **C**
-> - **C#**
-> - **C++**
-> - **Golang**
-> - **Python**
-> - **HTML** 
-> - **PHP**
-> <br>
-> 
-> ![ZER0x1337's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZER0x1337&show_icons=true&theme=onedark)
+- **C**
+- **C#**
+- **C++**
+- **Golang**
+- **Python**
+- **HTML** 
+- **PHP**
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZER0x1337&show_icons=true&theme=onedark" align="center" /></div>
