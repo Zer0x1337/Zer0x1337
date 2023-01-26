@@ -6,7 +6,7 @@
 </div>
 <br>
 <div align="center" >
- Founder, Developer & Owner @ <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a          href="https://apolloservices.xyz">Apolloservices</a>
+ Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a          href="https://apolloservices.xyz">Apolloservices</a>
 </div>
 <div align="center">
 - C
