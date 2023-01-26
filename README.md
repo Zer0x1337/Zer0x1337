@@ -22,9 +22,10 @@ Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a hr
  </div>
 <br>
 <br>
-<div align="center">
+<!--<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ZER0x1337&&style=flat-square&color=brightgreen" align="center" />
 </div>  
 <br>
+!-->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZER0x1337&show_icons=true&theme=onedark" align="center" /></div>
 <br>
