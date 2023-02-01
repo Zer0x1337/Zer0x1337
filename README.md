@@ -18,12 +18,14 @@ Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a hr
    -Python 
    -HTML 
    -PHP 
-   
-   
   </div>
- <div align="center">
-   Currently Learning: Cobol Basics :(
+ 
+  <div align="center">
+   -----------
+   
+   Currently Learning: Cobol Basics ^v^
   </div>
+ 
  </div>
 <br>
 <br>
