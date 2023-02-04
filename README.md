@@ -22,7 +22,7 @@ Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a hr
   </div>
  
   <div align="center">
-   ----------------------------------------------
+   -----------------------------------------------
    
    Currently Learning: Cobol Basics ^v^
   </div>
