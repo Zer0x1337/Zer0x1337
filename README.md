@@ -9,7 +9,7 @@
 <div align="center">About me:</div>
 
 <div align="center">
-Founder, Developer & Owner of <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a   href="https://apolloservices.xyz">Apolloservices</a>
+Founder and Lead Developer of <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a   href="https://apolloservices.xyz">Apolloservices</a>
   <div align="center">
    Experienced with: 
    C,
