@@ -9,9 +9,8 @@
 <div align="center">About me:</div>
 
 <div align="center">
-Founder and Lead Developer of <a href="https://authcord.xyz">Authcord</a>, <a href="https://cloudhostsolutions.co">CloudHostSolutions</a>, and <a   href="https://apolloservices.xyz">Apolloservices</a>
   <div align="center">
-   Experienced with: 
+   Most used: 
    C,
    C++,
    C#,
@@ -24,7 +23,7 @@ Founder and Lead Developer of <a href="https://authcord.xyz">Authcord</a>, <a hr
   <div align="center">
    -----------------------------------------------
    
-   Currently Learning: Cobol Basics ^v^
+   Learning: Cobol
   </div>
  
  </div>
