@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/1066513793854750862/1066860872959524925/image3.png" width="180"/>
+ <img src="https://cdn.discordapp.com/attachments/1051923458025586728/1075557929878573106/luc.png" width="180"/>
 </div>
 <div align="center">
  Science!
