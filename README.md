@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/1051923458025586728/1075558495203643402/riamu-yumemi-idolmaster.gif" width="180"/>
+ <img src="https://cdn.discordapp.com/attachments/1051923458025586728/1075558601197883543/Pinstripe_Fedora_Maybe.webp" width="180"/>
 </div>
 <div align="center">
  Science!
