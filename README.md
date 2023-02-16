@@ -22,7 +22,7 @@
   <div align="center">
    -----------------------------------------------
    
-   Learning: Cobol
+   Learning: x86 Assembly
   </div>
  
  </div>
