@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 <div align="center">
- Science!
+ SCIENCE!
 </div>
 <br>
 
