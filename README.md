@@ -16,13 +16,19 @@
    Golang,
    Python,
    HTML,
-   PHP
+   CSS,
+   PHP,
+   JS
+   
+   Garbage:
+   Rust,
+   Ruby
   </div>
  
   <div align="center">
    -----------------------------------------------
    
-   Learning: x86 Assembly
+   Learning: Kotlin
   </div>
  
  </div>
