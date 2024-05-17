@@ -19,10 +19,6 @@
    CSS,
    PHP,
    JS
-
-   Garbage:
-   Rust,
-   Ruby
   </div>
  
   <div align="center">
