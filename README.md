@@ -23,8 +23,7 @@
  
   <div align="center">
    -----------------------------------------------
-   
-   Learning: Kotlin
+
   </div>
  
  </div>
